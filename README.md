@@ -4,7 +4,7 @@
   # Key Components
     
   # 1. User Authentification:
-    Users need to log in if they already have an account. Otherwise, Users have to register using the  Sign Up Button in order to access the app.
+    Users need to log in if they already have an account. Otherwise, Users have to register using the Sign Up button in order to access the app.
   
   <img width="1127" alt="image" src="https://github.com/user-attachments/assets/dfd4fbb4-05ab-4fc1-9dcc-16ed0cf79b77" />
       
@@ -16,13 +16,13 @@
     Users can enter the video ID, which is necessary to download the transcript. If the link or the video ID is not correct, Users will receive an error message directing them how to correct the link.
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/9028d5b8-a942-4874-bda5-86db8953dfd7" />
 
-
+# Opps, an Error Occurred!
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/493921f2-6c61-4d7a-92c6-a7d081a702f8" />
 
 
     
   # 3. Download Button: 
-    After correcting the link or YouTube Video ID and Clicking this button triggers the download_transcript() function, which fetches and cleans the transcript.
+    After correcting the link or video ID and clicking this button triggers the appropriate function, which fetches and cleans the transcript.
 
   <img width="1127" alt="image" src="https://github.com/user-attachments/assets/23df4f4d-e307-404f-a4e7-b440cd9672f8" />
   
