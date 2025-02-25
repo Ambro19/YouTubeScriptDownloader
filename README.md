@@ -1,4 +1,12 @@
 # YouTubeScriptDownloader App
+
+In this application, we integrate our existing Python code with a Kivy mobile application. We then modify the Kivy app to include the implementation of user interface (UI) that allows users to input the YouTube video ID and trigger the script download.
+
+# Integrating Our Python Code with Kivy, We:
+
+1. Create Input Fields: Let the user input the YouTube video ID.
+2. Add Button: Add a button that will trigger the download of the transcript.
+3. Display Output: Show success or error messages in the app.
   
   
   # Key Components
